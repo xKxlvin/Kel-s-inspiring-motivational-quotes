@@ -1,0 +1,19 @@
+```py
+# These quotes are tend to work like a slot machine to remind how much of a failure you are.
+# Motivational Quotes :smile: 
+
+import random
+
+quote = random.randint(0,4)
+
+if quote == 0:
+  print("Don't be sad, you're making everyone uncomfortable")
+elif quote == 1:
+  print("Things didn't work out for a reason. The reason is you make terrible decisions")
+elif quote == 2:
+  print("The only person you can truly rely on is you. What a fucking nightmare")
+elif quote == 3:
+  print("You matter. Just not that much")
+elif quote == 4:
+  print("You can do it! But you probably won't")
+```
